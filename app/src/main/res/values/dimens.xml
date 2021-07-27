@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="m">16dp</dimen>
+    <dimen name="s">8dp</dimen>
+    <dimen name="lg">24dp</dimen>
+
+    <dimen name="large_button_height">100dp</dimen>
+    <dimen name="h1">50sp</dimen>
+</resources>
